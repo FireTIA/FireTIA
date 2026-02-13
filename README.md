@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет, я Kirill / FireTIA</h1>
+<h1 align="center">👋 Привет, я Кирилл / FireTIA</h1>
 <p align="center">инженер-программист, Android & IoT энтузиаст, немного пентестер</p>
 
 ```code
