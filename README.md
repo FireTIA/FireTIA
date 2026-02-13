@@ -1,7 +1,7 @@
 <h1 align="center">👋 Привет, я Kirill / FireTIA</h1>
 <p align="center">инженер-программист, Android & IoT энтузиаст, немного пентестер</p>
 
-```bash
+```code
 ┌──(kali㉿kali)-[~]
 └─$ sudo pentyToster.py --Toster-pentester
 [sudo] password for kali: toster
